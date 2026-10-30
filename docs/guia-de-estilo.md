@@ -9,10 +9,10 @@ Pendiente de diseño
 
 ### Paleta cromática
 
-  - `#3B2A22` Marrón oscuro  -> Texto principal, títulos, iconos
-  - `#FFF8F0` Crema          -> Fondo general de la web
-  - `#ED8E8E` Coral          -> Botones, acentos, elementos destacados
-  - `#EDC08E` Ocre suave     -> Fondos secundarios, tarjetas, detalles
+  - ![#3B2A22](https://placehold.co/40x20/3B2A22/3B2A22) [ #3B2A22 ] Marrón oscuro  -> Texto principal, títulos, iconos
+  - ![#FFF8F0](https://placehold.co/40x20/FFF8F0/FFF8F0) [ #FFF8F0 ] Crema          -> Fondo general de la web
+  - ![#ED8E8E](https://placehold.co/40x20/ED8E8E/ED8E8E) [ #ED8E8E ] Coral          -> Botones, acentos, elementos destacados
+  - ![#EDC08E](https://placehold.co/40x20/EDC08E/EDC08E) [ #EDC08E ] Ocre suave     -> Fondos secundarios, tarjetas, detalles
 
 ### Tipografía
 
