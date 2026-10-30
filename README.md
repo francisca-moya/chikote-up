@@ -10,9 +10,21 @@
 
 ## Lenguajes 
 
-  - [ Visual Studio Code ] HTML - CSS - JavaScript
-  - [ PHPStorm ] PHP
+  - HTML
+  - CSS
+  - JavaScript
+  - PHP
   - [ Oracle VirtualBox ] Debian 13.7.0
+
+## Frameworks
+
+  - Node.js
+
+## Entorno de desarrollo
+
+  - Visual Studio Code
+  - PHPStorm
+  - [ Debian 13.7.0 ] Oracle VirtualBox
 
 ## Estructura del Repositorio
 
