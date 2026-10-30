@@ -15,7 +15,7 @@
   - JavaScript
   - PHP
 
-## Frameworks
+## Frameworks y entornos
 
   - Node.js
 
