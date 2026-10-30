@@ -43,6 +43,9 @@ chikote-up/
 |    |
 |    |- templates/    -> Páginas HTML de la aplicación
 |
+|--- docs/            -> Documentación del proyecto
+|    |- memory/       -> Memoria del TFG
+|
 |- LICENSE
 |- README.md
 ```
