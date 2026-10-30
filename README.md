@@ -4,7 +4,9 @@
 
 ### Descripción del Proyecto
 
+<div align="justify">  
 Chikote Up es una plataforma web de descubrimiento gastronómico que integra gestión de ingredientes, personalización alimentaria e inteligencia artificial. Su objetivo es ofrecer recomendaciones culinarias adaptadas a los recursos y preferencias de cada usuario, junto con un espacio colaborativo para crear, compartir y valorar recetas.
+</div> 
 
 ### Equipo de Desarrollo
 
@@ -60,7 +62,8 @@ chikote-up/
 |- LICENSE
 |- README.md
 ```
-
+<div align="justify">
+  
 ### Estado del desarrollo
 
 El proyecto se encuentra en una fase inicial. La estructura, funcionalidades y tecnologías podrán evolucionar durante el proceso de desarrollo.
@@ -68,3 +71,4 @@ El proyecto se encuentra en una fase inicial. La estructura, funcionalidades y t
 ### Licencia
 
 Este proyecto está distribuido bajo la licencia [MIT](LICENSE). Consulta el archivo LICENSE para conocer los términos y condiciones de uso.
+</div>
