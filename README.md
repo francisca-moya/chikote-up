@@ -32,6 +32,11 @@ chikote-up/
 |- README.md
 |- LICENSE
 |
+|--- .agents/         -> Configuración e instrucciones para agente de IA
+|    |- skills/
+|
+|--- database/        -> Recursos y documentación de la base de datos
+|
 |--- design/          -> Diseño y maquetación
      |
      |- assets/       -> Recursos utilizados en el diseño
