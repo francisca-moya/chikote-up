@@ -9,10 +9,10 @@ Pendiente de diseño
 
 ### Paleta cromática
 
-  - [ `#3B2A22` ] Marrón oscuro  -> Texto principal, títulos, iconos
-  - [ `#FFF8F0` ] Crema          -> Fondo general de la web
-  - [ `#ED8E8E` ] Coral          -> Botones, acentos, elementos destacados
-  - [ `#EDC08E` ] Ocre suave     -> Fondos secundarios, tarjetas, detalles
+  - `#3B2A22` Marrón oscuro  -> Texto principal, títulos, iconos
+  - `#FFF8F0` Crema          -> Fondo general de la web
+  - `#ED8E8E` Coral          -> Botones, acentos, elementos destacados
+  - `#EDC08E` Ocre suave     -> Fondos secundarios, tarjetas, detalles
 
 ### Tipografía
 
