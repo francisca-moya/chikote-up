@@ -15,3 +15,7 @@
   - [ Oracle VirtualBox ] Debian 13.7.0
 
 ## Estructura del Repositorio
+
+## Licencia
+
+Este proyecto está distribuido bajo la licencia MIT.
