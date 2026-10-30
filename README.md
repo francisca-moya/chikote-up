@@ -62,6 +62,7 @@ chikote-up/
 │    |- pull_request_template.md       -> Plantilla para solicitudes de integración
 |
 |- .gitignore
+|- CONTRIBUTING.md
 |- LICENSE
 |- README.md
 ```
