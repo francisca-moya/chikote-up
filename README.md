@@ -18,4 +18,4 @@
 
 ## Licencia
 
-Este proyecto está distribuido bajo la licencia MIT.
+Este proyecto está distribuido bajo la licencia MIT. Consulta el archivo LICENSE para conocer los términos y condiciones de uso.
