@@ -23,12 +23,14 @@ Chikote Up es una plataforma web de descubrimiento gastronómico que integra ges
 
 ### Frameworks y entornos
 
-  - Node.js
+  - (Por definir) Node.js
+  - (Por definir) Laravel
 
 ### Entorno de desarrollo
 
   - Visual Studio Code
   - PHPStorm
+  - (Por definir) MySQL
   - [ Debian 13.7.0 ] Oracle VirtualBox
 
 ### Estructura del Repositorio
