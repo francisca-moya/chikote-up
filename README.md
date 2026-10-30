@@ -50,6 +50,7 @@ chikote-up/
 |
 |--- docs/                             -> Documentación del proyecto
 |    |- memory/                        -> Memoria del TFG
+|    |- guia-de-estilo.md              -> Identidad y directrices visuales
 |
 |--- .github/                          -> Configuración y plantillas de GitHub
 |    |- ISSUE_TEMPLATE/                -> Plantillas para incidencias y propuestas
