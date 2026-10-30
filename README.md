@@ -44,4 +44,4 @@ chikote-up/
 
 ## Licencia
 
-Este proyecto está distribuido bajo la licencia MIT. Consulta el archivo LICENSE para conocer los términos y condiciones de uso.
+Este proyecto está distribuido bajo la licencia [MIT](LICENSE). Consulta el archivo LICENSE para conocer los términos y condiciones de uso.
