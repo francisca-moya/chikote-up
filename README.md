@@ -27,6 +27,7 @@
 
 ## Estructura del Repositorio
 
+```text
 chikote-up/
 |- README.md
 |- LICENSE
@@ -39,6 +40,7 @@ chikote-up/
      |  |- js/        -> Scripts JavaScript
      |
      |- templates/    -> Páginas HTML de la aplicación
+```
 
 ## Licencia
 
