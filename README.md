@@ -14,7 +14,6 @@
   - CSS
   - JavaScript
   - PHP
-  - [ Oracle VirtualBox ] Debian 13.7.0
 
 ## Frameworks
 
@@ -27,6 +26,19 @@
   - [ Debian 13.7.0 ] Oracle VirtualBox
 
 ## Estructura del Repositorio
+
+chikote-up/
+|- README.md
+|- LICENSE
+|
+|--- design/          -> Diseño y maquetación
+     |
+     |- assets/       -> Recursos utilizados en el diseño
+     |  |- css/       -> Hojas de estilo
+     |  |- img/       -> Imágenes y recursos gráficos
+     |  |- js/        -> Scripts JavaScript
+     |
+     |- templates/    -> Páginas HTML de la aplicación
 
 ## Licencia
 
