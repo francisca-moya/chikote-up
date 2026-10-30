@@ -29,23 +29,30 @@
 
 ```text
 chikote-up/
-|--- .agents/         -> Configuración para agente de IA
+|--- .agents/                          -> Configuración para agente de IA
 |    |- skills/
 |
-|--- database/        -> Recursos y documentación de la base de datos
+|--- database/                         -> Recursos y documentación de la base de datos
 |
-|--- design/          -> Diseño y maquetación de la interfaz
+|--- design/                           -> Diseño y maquetación de la interfaz
+|    |- assets/                        -> Recursos del diseño
+|    |     |- css/                     -> Hojas de estilo
+|    |     |- img/                     -> Imágenes y recursos gráficos
+|    |     |- js/                      -> Scripts JavaScript
 |    |
-|    |- assets/       -> Recursos del diseño
-|    |     |- css/    -> Hojas de estilo
-|    |     |- img/    -> Imágenes y recursos gráficos
-|    |     |- js/     -> Scripts JavaScript
+|    |- templates/                     -> Páginas HTML de la aplicación
+|
+|--- docs/                             -> Documentación del proyecto
+|    |- memory/                        -> Memoria del TFG
+|
+|--- .github/                          -> Configuración y plantillas de GitHub
+|    |- ISSUE_TEMPLATE/                -> Plantillas para incidencias y propuestas
+│    |     |- bug_report.md            -> Informe de errores
+│    |     |- feature_request.md       -> Propuestas de nuevas funcionalidades
 |    |
-|    |- templates/    -> Páginas HTML de la aplicación
+│    |- pull_request_template.md       -> Plantilla para solicitudes de integración
 |
-|--- docs/            -> Documentación del proyecto
-|    |- memory/       -> Memoria del TFG
-|
+|- .gitignore
 |- LICENSE
 |- README.md
 ```
