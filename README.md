@@ -29,22 +29,22 @@
 
 ```text
 chikote-up/
-|- README.md
-|- LICENSE
-|
-|--- .agents/         -> Configuración e instrucciones para agente de IA
+|--- .agents/         -> Configuración para agente de IA
 |    |- skills/
 |
 |--- database/        -> Recursos y documentación de la base de datos
 |
-|--- design/          -> Diseño y maquetación
-     |
-     |- assets/       -> Recursos utilizados en el diseño
-     |  |- css/       -> Hojas de estilo
-     |  |- img/       -> Imágenes y recursos gráficos
-     |  |- js/        -> Scripts JavaScript
-     |
-     |- templates/    -> Páginas HTML de la aplicación
+|--- design/          -> Diseño y maquetación de la interfaz
+|    |
+|    |- assets/       -> Recursos del diseño
+|    |     |- css/    -> Hojas de estilo
+|    |     |- img/    -> Imágenes y recursos gráficos
+|    |     |- js/     -> Scripts JavaScript
+|    |
+|    |- templates/    -> Páginas HTML de la aplicación
+|
+|- LICENSE
+|- README.md
 ```
 
 ## Licencia
