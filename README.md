@@ -11,8 +11,8 @@ Chikote Up es una plataforma web de descubrimiento gastronómico que integra ges
 ### Equipo de Desarrollo
 
   - [Francisca Moya](https://github.com/francisca-moya)
-  - Óscar Cruz
-  - Anwar Elfassi
+  - [Óscar Cruz](https://github.com/DonOscarPrime)
+  - [Anwar Elfassi](https://github.com/Anwaref88)
 
 ### Lenguajes 
 
