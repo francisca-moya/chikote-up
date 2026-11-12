@@ -1,5 +1,5 @@
 <h1 align="center">Chikote Up</h1>
-<h3 align="center"><em>Las buenas ideas van a fuego lento.</em></h3>
+<h3 align="center"><em>Las buenas ideas van a fuego lento</em></h3>
 <p align="center"><strong>Desarrollo de Aplicaciones Web | TFG |  Curso 2026 / 2027</strong></p>
 
 ### Descripción del Proyecto
@@ -11,7 +11,6 @@ Chikote Up es una plataforma web de descubrimiento gastronómico que integra ges
 ### Equipo de Desarrollo
 
   - [Francisca Moya](https://github.com/francisca-moya)
-  - [Óscar Cruz](https://github.com/DonOscarPrime)
   - [Anwar Elfassi](https://github.com/Anwaref88)
 
 ### Lenguajes 
@@ -23,14 +22,14 @@ Chikote Up es una plataforma web de descubrimiento gastronómico que integra ges
 
 ### Frameworks y entornos
 
-  - (Por definir) Node.js
-  - (Por definir) Laravel
+  - Node.js
+  - Laravel
 
 ### Entorno de desarrollo
 
   - Visual Studio Code
   - PHPStorm
-  - (Por definir) MySQL
+  - MySQL
   - [ Debian 13.7.0 ] Oracle VirtualBox
 
 ### Estructura del Repositorio
